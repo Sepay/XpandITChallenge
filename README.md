@@ -1,7 +1,7 @@
 # XpandIT Scala Spark2 Challenge
 
 
-This is my answer to a big data challenger. This was my first time working with scala and spark. I've some experience with pyspark which is basically the same so I just had to transform the python knowledge in scala knowledge.
+This is my answer to a big data challenge. This was my first time working with scala and spark. I've some experience with pyspark which is basically the same so I just had to transform the python knowledge in scala knowledge.
 
 Before anything I want to say 2 things that I could not do about this challenge.
 
